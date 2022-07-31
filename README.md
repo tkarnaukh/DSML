@@ -1,2 +1,2 @@
 # DSML
-Capstone
+Capstone project files
